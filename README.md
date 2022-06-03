@@ -45,6 +45,9 @@ I am Jacob Gluszek, a wanna be **Fullstack Dev**.
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jakugluszek.jakubgluszek" alt="visitors">
 </div>
 
+## Old account
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jacobg03)
+
 ## 🔗 Links
 
 <!-- [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]() -->
