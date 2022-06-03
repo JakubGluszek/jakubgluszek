@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-I am Jacob Gluszek, a wanna be **Fullstack Dev**.
+I'm on the path of becoming a **Fullstack Dev**.
+I'm currently located in Bielsko-Biała, Poland.
+I'm trying my best.
 
 ## 🛠️ Skills
 
