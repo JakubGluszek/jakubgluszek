@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 
-I'm on the path of becoming a **Fullstack Dev**.
+I'm working to become a trust worthy Full Stack dev.
 I'm currently located in Bielsko-Biała, Poland.
-I'm trying my best.
 
 ## 🛠️ Skills
 
