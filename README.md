@@ -5,6 +5,8 @@
 I'm a 19 yo Web Developer aiming to become a reliable and efficient Full Stack Dev.   
 I'm currently located in Bielsko-Biała, Poland.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobgluszek&theme=discord_old_blurple" alt="Jacob Gluszek's Most Used Languages">
+
 ## Old account
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jacobg03)
 
