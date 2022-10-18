@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-19 yo working on becoming at *least* a **solid** Full Stack Dev.  
+19 yo studying/coding to become a solid dev.  
 I'm currently located in Bielsko-Biała, Poland.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubgluszek&theme=discord_old_blurple" alt="Jacob Gluszek's Most Used Languages">
