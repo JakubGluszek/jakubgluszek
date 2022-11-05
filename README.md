@@ -1,6 +1,7 @@
 Welcome to my profile!
 
-Here are some stats.
+Here are some stats.  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubgluszek&theme=discord_old_blurple" alt="Jacob Gluszek's Most Used Languages">
 
 ## Old account
