@@ -1,10 +1,6 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="35px">
+Welcome to my profile!
 
-## 🚀 About Me
-
-19 yo studying/coding to become a solid dev.  
-I'm currently located in Bielsko-Biała, Poland.
-
+Here are some stats.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakubgluszek&theme=discord_old_blurple" alt="Jacob Gluszek's Most Used Languages">
 
 ## Old account
