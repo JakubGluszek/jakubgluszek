@@ -1,6 +1,6 @@
 # Namaste! ✌🏼
 
-## About me
+## 🪧 About me
 
 I'm Jakub Głuszek, a software engineer specializing in **web development**.
 
