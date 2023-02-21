@@ -10,7 +10,7 @@ I want to build software that empowers the **individual**.
 
 Outside of the world of tech I'm into hip-hop, theology & playing pool.
 
-## 🛠️ Skills
+<!-- ## 🛠️ Skills
 
 ### Languages
 
@@ -53,7 +53,7 @@ Outside of the world of tech I'm into hip-hop, theology & playing pool.
 
 ### Design Tools
 
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ## 🔗 Links
 
