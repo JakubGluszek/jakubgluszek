@@ -2,7 +2,7 @@
 
 ## 🪧 About me
 
-I'm Jakub Głuszek, a self-taught **web developer** with nearly 3 years of experience.
+I'm Jakub Głuszek, a 20 yo self-taught **web developer** with nearly 3 years of experience.
 
 I will always consider myself to be a **student** who learns best by applying a practical approach.
 
